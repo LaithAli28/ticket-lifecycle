@@ -31,7 +31,7 @@ YouTube: How to create, work, and resolve tickets within osTicket. https://www.y
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/ticket-lifecycle/blob/main/S1.png?raw=true)
 
 
 </p>
@@ -42,7 +42,7 @@ Ticket Intake: The end user would first access the organization's ticketing plat
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/ticket-lifecycle/blob/main/S2.png?raw=true)
 
 </p>
 <p>
@@ -52,7 +52,7 @@ Ticket Properites consist of status, priority, department, Service Level Agreeme
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/ticket-lifecycle/blob/main/S3.png?raw=true)
 
 </p>
 <p>
@@ -62,7 +62,8 @@ Working Tickets and Communication. This ticket was assigned to both the Online B
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/ticket-lifecycle/blob/main/S4.png?raw=true)
+![image alt](https://github.com/LaithAli28/ticket-lifecycle/blob/main/S5.png?raw=true)
 
 </p>
 <p>
